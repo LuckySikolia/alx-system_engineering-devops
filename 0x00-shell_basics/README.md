@@ -8,3 +8,4 @@ mkdir /tmp/newdir is used to add a directory to another location
 mv /tmp/filename /tmp/seconddir/ is how to move a file from one place to another
 rm /tmp/dirname/filename - to delete a file in a specific directory
 rmdir /tmp.dirname - to delete a directory
+cd - is used to move back to the previous working directory
