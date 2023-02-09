@@ -6,3 +6,5 @@ touch is used to dreate an empty file
 chmod u+x filename is used to add execute permission to the owner of the file
 *NB* Scripts on permissions are to be written using the symbolic form not the absolute form
 script to add ececute to owner and group, and read to others is chmod u+x,g+x,o+r
+using a single command ugo+x is the script to add execute functions to everyone ie user, gropu, others
+At this point it is difficult to know when i should use the symbolic form or the absolute form. I am working with trial and error.
