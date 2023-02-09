@@ -10,3 +10,6 @@ using a single command ugo+x is the script to add execute functions to everyone 
 At this point it is difficult to know when i should use the symbolic form or the absolute form. I am working with trial and error.
 using absolute form chmod 007 filename is usedfor owner, group no prmission and others all permission
 using octal notation ie absolute form chmod 753 filename is usedto derive -rwxr-x-wx the secret is to group them in threes from the left
+--reference is used in the chmod command when setting the same mode for two files
+-R is used for recursions 
+-m to create a directory with permissions 
