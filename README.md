@@ -1,1 +1,1 @@
-1. shell basics and permisions
+1. shell basics and permissions
