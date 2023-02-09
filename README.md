@@ -1,1 +1,1 @@
-this has work related to shell basics
+1. shell basics and permisions
