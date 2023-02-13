@@ -1,2 +1,2 @@
 #!/bin/bash
-find ~/list -empty -name ".*"
+find . -empty -printf '%f\n'
